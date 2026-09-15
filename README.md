@@ -8,6 +8,12 @@ Deep forest-green surfaces (`#17241e`) under a low golden sun (`#e8bd72`),
 with moss, clay, and orchid accents drawn from the wallpapers themselves. Dark
 mode, soft contrast, no neon.
 
+## Install
+
+```bash
+omarchy theme install https://github.com/NobleDoodle/omarchy-primeval-dawn-theme
+```
+
 ## Contents
 
 | Path             | What it is                                              |
@@ -29,18 +35,6 @@ themes' logos rather than being a full-screen image. Apply it with:
 ```bash
 omarchy plymouth set-by-theme primeval-dawn   # needs sudo
 ```
-
-## Install
-
-```bash
-omarchy theme install https://github.com/NobleDoodle/omarchy-primeval-dawn-theme
-```
-
-
-Pass `--no-apply` to install the files without switching to the theme. Note
-that Omarchy stages a *copy* of the theme when it is applied, so a new
-wallpaper dropped in `backgrounds/` only reaches the switcher after
-`omarchy theme set primeval-dawn` runs again.
 
 ## Suggested Wallpaper Additions
 
