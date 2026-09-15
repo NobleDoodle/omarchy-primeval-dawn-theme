@@ -1,5 +1,7 @@
 # Primeval Dawn
 
+![Primeval Dawn Theme Preview](preview.png)
+
 **A warm Mesozoic jungle palette for [Omarchy](https://omarchy.org).**
 
 Deep forest-green surfaces (`#17241e`) under a low golden sun (`#e8bd72`),
